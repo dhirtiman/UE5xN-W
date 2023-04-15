@@ -6,13 +6,12 @@ Platforms
 /TheProject/Content/AnimStarterPack
 /TheProject/Build
 
-*.uasset
-
 
 
 
 # Hero character hecker's 
 
+/TheProject/Content/Assets/NewCharacter/Hero
 
 # hecker end 
 
@@ -20,3 +19,4 @@ Platforms
 
 
 # github ki ma***
+*.uasset
