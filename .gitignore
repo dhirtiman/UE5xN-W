@@ -6,7 +6,7 @@ Platforms
 /TheProject/Content/AnimStarterPack
 /TheProject/Build
 
-
+*.uasset
 
 
 
@@ -19,6 +19,4 @@ Platforms
 
 
 
-# github ki ma*** 
-
-*.uasset
+# github ki ma***
