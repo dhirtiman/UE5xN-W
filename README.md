@@ -19,10 +19,18 @@ enable source control in UE5   "bottom right corner"
 and set it to git  -->
 
 # What are we making?
+## RedChase 
 
-![image](https://user-images.githubusercontent.com/96942390/232201086-dae6c6df-d075-4621-ac01-c6434f316ac9.png)
+![image](https://user-images.githubusercontent.com/96942390/232686054-fbbdfc58-556d-4f6e-b983-19b68876f3ee.png)
 
-# Name of the game?
+A horror game where a scary guy freaking chases you while you run with parkour and sheet.
 
-Not decided yet
+Tags: 3D, First Person, Horror, SinglePlayer.
+
+## About the team
+
+The game is created and developed by a team of 3 people.
+The game's version 1 is out but is still in development.
+
+
 
