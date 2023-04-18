@@ -1,10 +1,11 @@
-/TheProject/Saved
-/TheProject/Intermediate
-/TheProject/DerivedDataCache
-/TheProject/Content/Characters
+/RedChase/Saved
+/RedChase/Intermediate
+/RedChase/DerivedDataCache
+
+/RedChase/Content/Characters
 Platforms
-/TheProject/Content/AnimStarterPack
-/TheProject/Build
+/RedChase/Content/AnimStarterPack
+/RedChase/Build
 
 
 
@@ -13,7 +14,7 @@ Platforms
 
 # hecker end 
 
-/TheProject/Content/Assets/NewCharacter.zip
+/RedChase/Content/Assets/NewCharacter.zip
 
 
 # github ki ma***
